@@ -4,6 +4,6 @@
 [在线预览地址](https://youngdro.github.io/3d-bookcase/index.html)
 
 ![](https://youngdro.github.io/images/3d-bookcase1.png)
-![](https://youngdro.github.io/images/3d_bookcase_gif.gif)
+![](https://user-gold-cdn.xitu.io/2018/7/26/164d5e340198a8f4?w=400&h=599&f=gif&s=4389455)
 
 
